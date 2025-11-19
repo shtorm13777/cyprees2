@@ -1,1 +1,1 @@
-Подключен Cypress Cloud [Dashboard](https://cloud.cypress.io/projects/f8pnfi/runs/3/overview?roarHideRunsWithDiffGroupsAndTags=1).
+Подключен Cypress Cloud [Dashboard](https://cloud.cypress.io/projects/f8pnfi/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&tagsMatch=ANY&timeRange=%7B%22startDate%22%3A%222024-11-19%22%2C%22endDate%22%3A%222025-11-19%22%2C%22id%22%3A%22LAST_12_MONTHS%22%7D).
