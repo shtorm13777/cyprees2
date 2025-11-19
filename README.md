@@ -1,1 +1,1 @@
-https://cloud.cypress.io/projects/f8pnfi/runs/3/overview?roarHideRunsWithDiffGroupsAndTags=1
+Подключен Cypress Cloud [Dashboard](https://cloud.cypress.io/projects/f8pnfi/runs/3/overview?roarHideRunsWithDiffGroupsAndTags=1).
