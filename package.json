@@ -1,0 +1,23 @@
+{
+  "name": "cyprees2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/shtorm13777/cyprees2#readme",
+  "bugs": {
+    "url": "https://github.com/shtorm13777/cyprees2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtorm13777/cyprees2.git"
+  },
+  "license": "ISC",
+  "author": "Klimenko Mikhail",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --record --key 2d59641d-f6e7-462d-b6f7-bfbbf8bac2d7"
+  },
+  "devDependencies": {
+    "cypress": "^15.6.0"
+  }
+}
